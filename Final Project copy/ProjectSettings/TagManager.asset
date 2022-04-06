@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - scroll
+  - player
+  - movingplatform
+  - coin
+  - mainAbilityText
+  - boostAbilityText
+  - fireball
+  - fireballPrefab
+  - burningGhoul
+  - pressurePlate
+  - floor
+  - Enemy
+  - potion_2
+  - abilityNameText
+  - abilityDescriptionText
+  - howToUseText
+  - abilitiesSign
+  - boostOption1
+  - boostOption2
+  - boostOption3
+  - magicBook
+  - gem_4
+  - potion_3
+  - feather
+  - costText
+  - ronald
+  - potionCountText
+  - wall
+  - orangeFire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - front
+  - Water
+  - UI
+  - Front2
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1490240565
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1032414383
+    locked: 0

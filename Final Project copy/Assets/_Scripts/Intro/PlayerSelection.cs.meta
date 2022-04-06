@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddfa578aa4167b24bb3456aed21a7c78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerAPrefab: {fileID: 4553580223510072898, guid: 76e4f989520be5f43bbf71f90302169d, type: 3}
+  - playerBPrefab: {fileID: 6323719953710832613, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
+  - playerCPrefab: {fileID: 8331566312900640151, guid: 12a5b12d56d9fe84d87b064d53caac65, type: 3}
+  - displayAbilities: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
